@@ -4,7 +4,7 @@ Created using HTML, CSS, JavaScript and Bootstrap. This planner gives user a smi
 
 # Excuse-Planner Screenshot
 
-The calender portion of the website;
+                                The calender portion of the website;
 ![image](https://github.com/kane-chang/excuse-planner/assets/4332402/d872f97f-7a70-4d0c-a9e2-96d347106791)
 
 
