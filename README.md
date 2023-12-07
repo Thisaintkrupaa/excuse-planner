@@ -20,7 +20,7 @@ The generate excuse button;
 
 
 
-The generated excuse;
+                                    The generated excuse;
 ![image](https://github.com/kane-chang/excuse-planner/assets/4332402/f585b554-5442-4978-a821-f95166152ca9)
 
 
