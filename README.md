@@ -9,13 +9,13 @@ The calender portion of the website;
 
 
 
-The create event popup;
+                                       The create event popup;
 ![image](https://github.com/kane-chang/excuse-planner/assets/4332402/1e78066e-b50b-488f-9ed5-6f338d7693f3)
 
 
 
 
-The generate excuse button;
+                                        The generate excuse button;
 ![image](https://github.com/kane-chang/excuse-planner/assets/4332402/fc484d53-6943-44ff-b215-1fefa5ff2fb2)
 
 
